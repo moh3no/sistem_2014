@@ -1,0 +1,3 @@
+<div style="text-align: center; font-family: arial; font-size: 8pt; font-weight: bold;">Copyright &copy; 2104 Badan Kepegawaian Daerah Pemerintah Kota Medan Versi .01</div>
+<div style="text-align: center; font-family: arial; font-size: 8pt; font-weight: bold;">Hak Cipta Dilindungi Undang-Undang</div>
+<div style="text-align: center; font-family: arial; font-size: 8pt; font-weight: bold;">Jl. Kapten Maulana Lubis No. 2 Medan 20112</div>
